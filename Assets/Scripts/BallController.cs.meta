@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 695b8a38d43ea7849ab49abe5a06d01f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - ballAudio: {instanceID: 0}
+  - ballRolling: {fileID: 8300000, guid: 7a0b7ae24eaf8d34a93b495c6902656a, type: 3}
+  - dust: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
